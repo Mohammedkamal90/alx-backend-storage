@@ -1,4 +1,4 @@
--- Task 6: add bonus - create store procedure addBonus
+-- add bonus - create store procedure addBonus
 DELIMITER //
 
 CREATE PROCEDURE AddBonus (IN user_id INT, IN project_name VARCHAR(255), IN score INT)

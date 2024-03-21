@@ -1,4 +1,4 @@
--- Task 4: Buy buy buy - create trigger
+-- Buy buy buy - create trigger
 DELIMITER //
 
 CREATE TRIGGER decrease_quantity_after_order

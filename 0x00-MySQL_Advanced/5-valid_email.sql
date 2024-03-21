@@ -1,4 +1,4 @@
--- Task 5: email validation to sent - Create trigger
+-- email validation to sent - Create trigger
 DELIMITER //
 
 CREATE TRIGGER reset_valid_email_on_email_change

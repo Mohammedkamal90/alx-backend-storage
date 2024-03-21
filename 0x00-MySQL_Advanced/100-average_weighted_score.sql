@@ -1,4 +1,4 @@
--- Task 12: average weight score - create procedure ComputeAverageWeightedScoreForUser which store average weight score for student
+-- average weight score - create procedure ComputeAverageWeightedScoreForUser which store average weight score for student
 
 DELIMITER //
 CREATE PROCEDURE ComputeAverageWeightedScoreForUser (IN user_id INT)

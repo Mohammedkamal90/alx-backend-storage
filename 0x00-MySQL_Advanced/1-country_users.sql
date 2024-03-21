@@ -1,4 +1,4 @@
--- Task 1: in and not out - create table users
+-- in and not out - create table users
 -- execute on any database
 CREATE TABLE IF NOT EXISTS users (
     id INT AUTO_INCREMENT PRIMARY KEY,

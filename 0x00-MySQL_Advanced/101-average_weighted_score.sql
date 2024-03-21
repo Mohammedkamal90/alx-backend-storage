@@ -1,4 +1,4 @@
--- Task 13 - Calculate and store the average weighted score for all students
+-- Calculate and store the average weighted score for all students
 DELIMITER $$
 
 CREATE PROCEDURE ComputeAverageWeightedScoreForUsers()
