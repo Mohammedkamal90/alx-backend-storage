@@ -1,0 +1,2 @@
+// list docs
+db.school.find();
