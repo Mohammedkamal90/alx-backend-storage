@@ -1,0 +1,2 @@
+// dekete matching
+db.school.deleteMany({ name: "Holberton school" });
