@@ -3,10 +3,6 @@
 
 
 def list_all(mongo_collection):
-    # Find all documents in the collection
-    documents = mongo_collection.find({})
-
-
-    documents_list = [doc for doc in documents]
-    
-    return documents_list
+    """ Find all documents in the collection
+    """
+    return [doc for doc in mongo_collection.find()]
